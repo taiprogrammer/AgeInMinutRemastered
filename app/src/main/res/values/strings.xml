@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Age In Minutes</string>
+    <string name="text_explaining">Que tal saber quão velho em minutos você é?</string>
+    <string name="text_whats_your_name">Mas antes de começar, deixa eu te conhecer um pouquinho mais?</string>
+    <string name="input_text">Qual o seu nome?</string>
+    <string name="button_date">Selecionar data</string>
+    <string name="text_date">Nos diga sua data de aniversário para a mágica acontecer:</string>
+    <string name="text_result">Parabéns %1$s,
+        você nasceu no dia %2$s e possui %3$s minutos de idade! Uau ;)</string>
+</resources>
